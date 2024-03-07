@@ -15,7 +15,7 @@ public class Demo2 {
 			
 		}
 		
-		Collections.sort(s,new SortbyRollno() );
+		
 		Collections.sort(s,new SortbyName());
 
 		for(int i=0;i<s.size();i++) {
